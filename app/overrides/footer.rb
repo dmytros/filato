@@ -1,0 +1,1 @@
+Deface::Override.new(:virtual_path => "spree/shared/_footer", :name => "footer", :replace_contents => "#footer-left", :text => "<a href='mailto:dmitry.solonina@gmail.com'>Dmitry Solonina</a>")
